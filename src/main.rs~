@@ -3,26 +3,10 @@
 /// This is the best implementation of this program to ever exist.
 
 fn main() {
-<<<<<<< Conflict 1 of 1
-+++++++ Contents of side #1
     print("Hello, world!");
-    print("Goodbye, world!");
 }
 
 // a function that prints a message
 fn print(m: &str) {
     println!("{m}")
 }
-%%%%%%% Changes from base to side #2
-     print_hello();
--    print_goodbye();
- }
- 
- fn print_hello() {
-     println!("Hello, world!");
- }
--
--fn print_goodbye() {
--    println!("Goodbye, world!");
--}
->>>>>>> Conflict 1 of 1 ends
